@@ -7,5 +7,3 @@ VIAJAR mucho.
 2.
 Acabar mi carrera y comenzar a trabajar.
 
-3.
-Ganar dinero.

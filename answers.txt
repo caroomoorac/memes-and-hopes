@@ -1,0 +1,67 @@
+1. Hice la carpeta "memes and hopes"
+2. cheque mi git status
+3. KAROLINAs-MacBook-Pro:memesandhopes carolina$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Screen Shot 2017-08-14 at 12.57.13 PM.png
+	Screen Shot 2017-08-17 at 11.31.05 AM.jpg
+	Screen Shot 2017-08-21 at 12.13.55 PM.png
+	Screen Shot 2017-08-24 at 1.14.53 PM.png
+	Screen Shot 2017-08-24 at 8.56.49 AM.png
+	Screen Shot 2017-08-27 at 9.53.36 AM.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ 
+
+4. Añadi los cambios a mi git:
+
+
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ git add 1.png
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ git add 2.jpg
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ git add 3.png
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ git add 4.png
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ git add 5.png
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ git add 6.png
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   1.png
+	new file:   2.jpg
+	new file:   3.png
+	new file:   4.png
+	new file:   5.png
+	new file:   6.png
+
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ 
+
+
+5. Los llame " First commit memes"
+
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ git status
+On branch master
+nothing to commit, working directory clean
+KAROLINAs-MacBook-Pro:memesandhopes carolina$ 
+
+6.
+Hice los cambios en mi Termianl y logré subir los archivos a mi Git.
+
+7.
+Hice mi archivo README, lo subí a git y borre mi deseo número 3 de ganar dinero, y use el comando para modificar mi  "git diff".
+Al parecer te dice qué es lo que modificaste en tú archivo.
+
+
+8.
+Subí mis archivos a:
+
+
+https://github.com/caroomoorac/memes-and-hopes
